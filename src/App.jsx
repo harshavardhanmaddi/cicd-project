@@ -9,8 +9,10 @@ function App() {
   return (
     <>
       <h1>welcome</h1>
+      <h2>cicd class</h2>
     </>
   )
 }
 
 export default App
+onabort
